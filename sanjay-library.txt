@@ -1,0 +1,13 @@
+https://sanjay-library.free.beeceptor.com/sanjay-library -post req
+
+https://sanjay-library.free.beeceptor.com/sanjay-library -if i use same lint with get req then it will give me all the books of library.
+
+https://sanjay-library.free.beeceptor.com/sanjay-library/TokillaMockingBird - get the book by book name
+
+https://sanjay-library.free.beeceptor.com/sanjay-library?name=Lincoln  -get book by using book name... using query param
+
+https://sanjay-library.free.beeceptor.com/sanjay-library?name=TokillaMockingBird -update perticular book details
+
+https://sanjay-library.free.beeceptor.com/sanjay-library?name=GulliverTravels -delete a perticuler book from library
+
+https://sanjay-library.free.beeceptor.com/sanjay-library?author=JonathanSwift  --get all books by perticuler auther name
